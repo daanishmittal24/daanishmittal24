@@ -90,10 +90,6 @@ I’m a **computer engineering student** dedicated to solving complex problems w
 - **Awards**:  
   - Robotics Competition Finalist (IETE, 2023)  
   - CTF Competition Finalist (Microsoft Learn Student Chapter, 2023)  
-- **Leadership Highlights**:  
-  - Organized 5+ technical events at OWASP TIET.  
-  - Mentored 50+ students in secure coding and project development.  
-
 ---
 
 ## 🌱 Currently Learning  
