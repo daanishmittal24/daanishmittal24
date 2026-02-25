@@ -25,10 +25,10 @@ class AIEngineer:
     def __init__(self):
         self.name         = "Daanish Mittal"
         self.role         = "AI-Centric Software Engineer"
-        self.focus        = ["AI Agents", "LLMs", "Computer Vision", "Edge AI", "ML Systems"]
+        self.focus        = ["AI Agents", "A2A Protocol", "LLMs", "Computer Vision", "Edge AI", "Full-Stack"]
         self.languages    = ["Python", "JavaScript", "C++"]
-        self.frameworks   = ["PyTorch", "LangChain", "Whisper", "OpenCV", "FastAPI"]
-        self.currently    = "🔬 Exploring Agentic AI systems & multimodal models"
+        self.frameworks   = ["PyTorch", "LangChain", "Whisper", "OpenCV", "FastAPI", "React", "Node.js"]
+        self.currently    = "🔬 Building multi-agent A2A systems & end-to-end platforms"
         self.philosophy   = "Build things that think. Explore the impossible. Ship fast."
 
     def say_hi(self):
@@ -52,6 +52,7 @@ me.say_hi()
 
 ### 🤖 AI Agents & LLMs
 - Building autonomous AI agents that reason, plan & act
+- A2A (Agent-to-Agent) protocol multi-agent systems
 - Prompt engineering & RAG pipelines
 - Fine-tuning & deploying LLMs
 - Multi-agent orchestration systems
@@ -100,6 +101,7 @@ me.say_hi()
 ### 🌐 Web & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -206,6 +208,28 @@ Machine learning model for prostate cancer detection using medical imaging and c
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 A2A Agentic AI System
+> **Multi-Agent A2A Protocol Platform** &nbsp; *(hosted on separate account)*
+
+A multi-agent system built on the A2A (Agent-to-Agent) protocol with 4 specialized agents that collaborate to perform complex tasks — fetching and sending Gmail, summarizing webpages, multi-step planning, and GitHub integration.
+
+**Tech:** `Python` `A2A Protocol` `LangChain` `Gmail API` `GitHub API` `LLMs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 End-to-End E-Commerce Platform
+> **Full-Stack E-Commerce Application** &nbsp; *(hosted on separate account)*
+
+A complete end-to-end e-commerce platform with product management, user authentication, shopping cart, payment processing, and order management.
+
+**Tech:** `JavaScript` `React` `Node.js` `MongoDB` `REST API`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -267,8 +291,9 @@ Machine learning model for prostate cancer detection using medical imaging and c
 <div align="center">
 
 ```
-🔭 Currently building  →  Agentic AI systems that reason & act autonomously
+🔭 Currently building  →  Multi-agent A2A systems & full-stack AI-powered platforms
 🌱 Exploring           →  Multimodal LLMs, RAG architectures, AI orchestration
+🛒 Recently shipped    →  End-to-end e-commerce platform & A2A agentic AI
 🎯 Goal 2025           →  Ship production-grade AI agents
 🤝 Open to             →  Collaborations on AI/ML projects & research
 ⚡ Fun fact            →  I think in AI pipelines even when I'm offline 🧠
