@@ -47,7 +47,7 @@ class AIEngineer:
                              "Pylint", "ESLint", "Pytest"]
         self.currently    = "🔬 Building multi-agent A2A + LangGraph systems"
         self.contact      = "daanishmittal24@gmail.com"
-        self.linkedin     = "linkedin.com/in/daanishmittal24"
+        self.linkedin     = "linkedin.com/in/daanish-mittal"
         self.philosophy   = "Build things that think. Observe. Test. Ship."
 
     def say_hi(self):
@@ -421,7 +421,7 @@ Machine learning model for prostate cancer detection using medical imaging and c
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daanishmittal24">
+<a href="https://www.linkedin.com/in/daanish-mittal">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
