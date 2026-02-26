@@ -16,7 +16,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daanish%20Mittal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daanishmittal24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daanish%20Mittal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daanish-mittal)
 [![Gmail](https://img.shields.io/badge/Gmail-daanishmittal24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daanishmittal24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-daanishmittal24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daanishmittal24)
 
