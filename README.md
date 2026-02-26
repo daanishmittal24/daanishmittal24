@@ -214,39 +214,35 @@ me.say_hi()
 <td width="50%" valign="top">
 
 ### 🤖 A2A Agentic AI System ⭐ NEW
-> **Multi-Agent A2A + LangGraph Platform** &nbsp; *(hosted on separate account)*
+> **Multi-Agent A2A + LangGraph Platform**
 
 A production-grade multi-agent system built on the **A2A (Agent-to-Agent) protocol** with **LangGraph** orchestration — **4 specialized agents** collaborating autonomously on Gmail management, web summarization, multi-step planning, and GitHub integration. Fully traced via **LangSmith** for observability.
 
 **Tech:** `Python` `A2A Protocol` `LangChain` `LangGraph` `LangSmith` `OpenAI` `LLMs` `FastAPI`
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daanishmittal24)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GAdaanishmittal/Multi-Agent)
 [![LangSmith](https://img.shields.io/badge/Traced%20via-LangSmith-FF6B35?style=flat-square)](https://smith.langchain.com)
 
 > 🔬 *4 agents · Gmail · GitHub · Web tools · Full tracing*
 
 > 🔗 **Related:** [AutoCodeGuard](https://github.com/daanishmittal24/AutoCodeGuard) *(Python · Observability)* &nbsp;·&nbsp; [VoxBeam](https://github.com/daanishmittal24/VoxBeam) *(Python · OpenAI)*
 
-> 🔗 *Repo on separate account — [Browse all projects →](https://github.com/daanishmittal24)*
-
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 End-to-End E-Commerce Platform ⭐ NEW
-> **Full-Stack E-Commerce Application** &nbsp; *(hosted on separate account)*
+> **Full-Stack E-Commerce Application**
 
 A complete end-to-end e-commerce platform with product management, user authentication, shopping cart, payment processing, and order management — built with **React** frontend and **Spring Boot** backend.
 
 **Tech:** `React` `HTML5` `CSS3` `JavaScript` `Spring Boot` `Node.js` `MongoDB` `MySQL` `REST API`
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daanishmittal24)
-[![Stack](https://img.shields.io/badge/Stack-React%20+%20Spring%20Boot-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/daanishmittal24)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GAdaanishmittal/ecommerce_platform)
+[![Stack](https://img.shields.io/badge/Stack-React%20+%20Spring%20Boot-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/GAdaanishmittal/ecommerce_platform)
 
 > 🛍️ *Auth · Cart · Payments · Orders · Admin Panel*
 
 > 🔗 **Related:** [AutoCodeGuard](https://github.com/daanishmittal24/AutoCodeGuard) *(Node.js · MongoDB · Testing)* &nbsp;·&nbsp; [EDGE-AI](https://github.com/daanishmittal24/EDGE-AI) *(Python · Computer Vision)*
-
-> 🔗 *Repo on separate account — [Browse all projects →](https://github.com/daanishmittal24)*
 
 </td>
 </tr>
@@ -263,7 +259,7 @@ A sophisticated Python-based voice command system with GPU-accelerated inference
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/VoxBeam?style=flat-square&color=yellow)](https://github.com/daanishmittal24/VoxBeam)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/VoxBeam?style=flat-square)](https://github.com/daanishmittal24/VoxBeam)
 
-> 🔗 **Related:** [Video to Text](https://github.com/daanishmittal24/video_to_text) *(Speech · NLP)* &nbsp;·&nbsp; [A2A Agentic AI](https://github.com/daanishmittal24) *(OpenAI · LLMs)*
+> 🔗 **Related:** [Video to Text](https://github.com/daanishmittal24/video_to_text) *(Speech · NLP)* &nbsp;·&nbsp; [A2A Agentic AI](https://github.com/GAdaanishmittal/Multi-Agent) *(OpenAI · LLMs)*
 
 </td>
 <td width="50%" valign="top">
@@ -310,7 +306,7 @@ End-to-end automated testing platform with custom linting rules, performance ben
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/AutoCodeGuard?style=flat-square&color=yellow)](https://github.com/daanishmittal24/AutoCodeGuard)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/AutoCodeGuard?style=flat-square)](https://github.com/daanishmittal24/AutoCodeGuard)
 
-> 🔗 **Related:** [A2A Agentic AI](https://github.com/daanishmittal24) *(Python · LangSmith observability)* &nbsp;·&nbsp; [E-Commerce Platform](https://github.com/daanishmittal24) *(Node.js · MongoDB)*
+> 🔗 **Related:** [A2A Agentic AI](https://github.com/GAdaanishmittal/Multi-Agent) *(Python · LangSmith observability)* &nbsp;·&nbsp; [E-Commerce Platform](https://github.com/GAdaanishmittal/ecommerce_platform) *(Node.js · MongoDB)*
 
 </td>
 </tr>
