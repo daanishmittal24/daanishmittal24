@@ -220,7 +220,14 @@ A production-grade multi-agent system built on the **A2A (Agent-to-Agent) protoc
 
 **Tech:** `Python` `A2A Protocol` `LangChain` `LangGraph` `LangSmith` `OpenAI` `LLMs` `FastAPI`
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daanishmittal24)
+[![LangSmith](https://img.shields.io/badge/Traced%20via-LangSmith-FF6B35?style=flat-square)](https://smith.langchain.com)
+
 > 🔬 *4 agents · Gmail · GitHub · Web tools · Full tracing*
+
+> 🔗 **Related:** [AutoCodeGuard](https://github.com/daanishmittal24/AutoCodeGuard) *(Python · Observability)* &nbsp;·&nbsp; [VoxBeam](https://github.com/daanishmittal24/VoxBeam) *(Python · OpenAI)*
+
+> 🔗 *Repo on separate account — [Browse all projects →](https://github.com/daanishmittal24)*
 
 </td>
 <td width="50%" valign="top">
@@ -232,7 +239,14 @@ A complete end-to-end e-commerce platform with product management, user authenti
 
 **Tech:** `React` `HTML5` `CSS3` `JavaScript` `Spring Boot` `Node.js` `MongoDB` `MySQL` `REST API`
 
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/daanishmittal24)
+[![Stack](https://img.shields.io/badge/Stack-React%20+%20Spring%20Boot-61DAFB?style=flat-square&logo=react&logoColor=white)](https://github.com/daanishmittal24)
+
 > 🛍️ *Auth · Cart · Payments · Orders · Admin Panel*
+
+> 🔗 **Related:** [AutoCodeGuard](https://github.com/daanishmittal24/AutoCodeGuard) *(Node.js · MongoDB · Testing)* &nbsp;·&nbsp; [EDGE-AI](https://github.com/daanishmittal24/EDGE-AI) *(Python · Computer Vision)*
+
+> 🔗 *Repo on separate account — [Browse all projects →](https://github.com/daanishmittal24)*
 
 </td>
 </tr>
@@ -249,6 +263,8 @@ A sophisticated Python-based voice command system with GPU-accelerated inference
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/VoxBeam?style=flat-square&color=yellow)](https://github.com/daanishmittal24/VoxBeam)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/VoxBeam?style=flat-square)](https://github.com/daanishmittal24/VoxBeam)
 
+> 🔗 **Related:** [Video to Text](https://github.com/daanishmittal24/video_to_text) *(Speech · NLP)* &nbsp;·&nbsp; [A2A Agentic AI](https://github.com/daanishmittal24) *(OpenAI · LLMs)*
+
 </td>
 <td width="50%" valign="top">
 
@@ -261,6 +277,8 @@ Real-time image annotation and polygon detection system for edge devices. Handle
 
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/EDGE-AI?style=flat-square&color=yellow)](https://github.com/daanishmittal24/EDGE-AI)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/EDGE-AI?style=flat-square)](https://github.com/daanishmittal24/EDGE-AI)
+
+> 🔗 **Related:** [Garment Designer](https://github.com/daanishmittal24/Garment_designer) *(CV · Generative AI)* &nbsp;·&nbsp; [ML Cancer Detection](https://github.com/daanishmittal24/prostate_cancer) *(Python · ML)*
 
 </td>
 </tr>
@@ -277,6 +295,8 @@ AI-driven garment design and visualization tool leveraging generative models for
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/Garment_designer?style=flat-square&color=yellow)](https://github.com/daanishmittal24/Garment_designer)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/Garment_designer?style=flat-square)](https://github.com/daanishmittal24/Garment_designer)
 
+> 🔗 **Related:** [EDGE-AI](https://github.com/daanishmittal24/EDGE-AI) *(OpenCV · Edge AI)* &nbsp;·&nbsp; [ML Cancer Detection](https://github.com/daanishmittal24/prostate_cancer) *(Python · ML)*
+
 </td>
 <td width="50%" valign="top">
 
@@ -289,6 +309,8 @@ End-to-end automated testing platform with custom linting rules, performance ben
 
 [![Stars](https://img.shields.io/github/stars/daanishmittal24/AutoCodeGuard?style=flat-square&color=yellow)](https://github.com/daanishmittal24/AutoCodeGuard)
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/AutoCodeGuard?style=flat-square)](https://github.com/daanishmittal24/AutoCodeGuard)
+
+> 🔗 **Related:** [A2A Agentic AI](https://github.com/daanishmittal24) *(Python · LangSmith observability)* &nbsp;·&nbsp; [E-Commerce Platform](https://github.com/daanishmittal24) *(Node.js · MongoDB)*
 
 </td>
 </tr>
@@ -304,6 +326,8 @@ Converts video content to structured text using AI-powered speech and scene reco
 
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/video_to_text?style=flat-square)](https://github.com/daanishmittal24/video_to_text)
 
+> 🔗 **Related:** [VoxBeam](https://github.com/daanishmittal24/VoxBeam) *(OpenAI Whisper · Speech AI)* &nbsp;·&nbsp; [EDGE-AI](https://github.com/daanishmittal24/EDGE-AI) *(Computer Vision · Scene Recognition)*
+
 </td>
 <td width="50%" valign="top">
 
@@ -315,6 +339,8 @@ Machine learning model for prostate cancer detection using medical imaging and c
 **Tech:** `Python` `scikit-learn` `Medical AI` `ML`
 
 [![Lang](https://img.shields.io/github/languages/top/daanishmittal24/prostate_cancer?style=flat-square)](https://github.com/daanishmittal24/prostate_cancer)
+
+> 🔗 **Related:** [EDGE-AI](https://github.com/daanishmittal24/EDGE-AI) *(Computer Vision · Python)* &nbsp;·&nbsp; [Garment Designer](https://github.com/daanishmittal24/Garment_designer) *(Generative AI)*
 
 </td>
 </tr>
