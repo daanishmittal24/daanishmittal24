@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Agents+%26+A2A+Systems+%F0%9F%A6%BE;LangChain+%7C+LangGraph+%7C+LangSmith+%7C+LangFuse+%F0%9F%94%97;Full-Stack%3A+React+%7C+Spring+Boot+%7C+FastAPI+%F0%9F%9A%80;LLMs+%7C+NLP+%7C+Computer+Vision+%7C+Speech+AI+%F0%9F%91%81%EF%B8%8F;E-Commerce+%7C+Microservices+%7C+MongoDB+%7C+Node.js+%F0%9F%9B%92;Observability+%7C+Testing+%7C+MLOps+%F0%9F%93%A1;From+Ideas+to+Production-Grade+AI+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Agents+%26+A2A+Systems+%F0%9F%A6%BE;LangChain+%7C+LangGraph+%7C+LangSmith+%7C+LangFuse+%F0%9F%94%97;Full-Stack%3A+React+%7C+Spring+Boot+%7C+FastAPI+%F0%9F%9A%80;LLMs+%7C+NLP+%7C+Computer+Vision+%7C+Speech+AI+%F0%9F%91%81%EF%B8%8F;+Microservices+%7C+MongoDB+%7C+Node.js+%F0%9F%9B%92;Observability+%7C+Testing+%7C+MLOps+%F0%9F%93%A1;From+Ideas+to+Production-Grade+AI+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
