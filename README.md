@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Social & Contact Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/daanishmittal24?label=Follow&style=social)](https://github.com/daanishmittal24)
+[![GitHub followers](https://img.shields.io/github/followers/daanishmittal24?label=Follow&style=flat-square&logo=github&color=black&labelColor=black&logoColor=white)](https://github.com/daanishmittal24)
 [![Profile Views](https://komarev.com/ghpvc/?username=daanishmittal24&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/daanishmittal24)
 
 <br/>
