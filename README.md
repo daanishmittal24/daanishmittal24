@@ -401,11 +401,10 @@ Machine learning model for prostate cancer detection using medical imaging and c
 <div align="center">
 
 ```
-🤖 Currently building  →  Multi-agent A2A + LangGraph systems & full-stack AI platforms
-🌱 Exploring           →  Multimodal LLMs, RAG, LangFuse observability, AI orchestration
-🛒 Recently shipped    →  E-commerce platform (React + Spring Boot) & A2A agentic AI
-🎯 Goal 2025           →  Ship production-grade AI agents with full observability
-🤝 Open to             →  Collaborations on AI/ML, full-stack & agentic projects
+🤖 Currently building  →  Multi-agent A2A + LangGraph systems & full-stack AI platforms.
+🌱 Exploring           →  Multimodal LLMs, RAG, LangFuse observability, AI orchestration, etc.
+🎯 Goal 2026           →  Ship production-grade AI systems.
+🤝 Open to             →  Collaborations on AI/ML, full-stack & agentic projects.
 ⚡ Fun fact            →  I think in AI pipelines even when I'm offline 🧠
 ```
 
